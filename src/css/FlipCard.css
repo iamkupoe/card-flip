@@ -1,0 +1,19 @@
+.first, .second{
+    margin: 10px;
+    padding: 10px;
+}
+
+#title{
+    color: #fff;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+#text{
+    color: #fff;
+    text-align: justify;
+    font-size: 18px;
+}
+
+    
